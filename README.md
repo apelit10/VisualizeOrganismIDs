@@ -21,20 +21,6 @@ Tools : Java Script(Cytoscape),Html<br>
 - [x] Report the all associate nodes between PIds of organisms 
 
 
-##Usage
-  - run<br>
-      ``` python uniprot_acc_id_finder.py --refseq 'refseq_id'[ --ensembl 'ensembl_id'[ --uniprot--id 'uniprot_id']] ```
-      
-  - example command<br>
-      ``` python uniprot_acc_id_finder.py --refseq 'NP_000608.1','NP_001139633.1','NP_037305.2' ```<br>
-      or <br>
-      ``` python uniprot_acc_id_finder.py --ensembl 'ENSMUSG00000029682' --refseq 'NP_001166492.1' --uniprot_id 'HYALP_MACFA' ```
-      or <br>
-      ``` python uniprot_acc_id_finder.py --refseq 'WP_005082954.1','NP_416893.1','WP_003898649.1' --uniprot_id 'MNTH_BACSU' ```
-       or <br>
-      ``` python uniprot_acc_id_finder.py --ensembl 'ENSMUSG00000023030' ```
-      
-
 ##Team Members 
 
   * [Yavuz Selim Abazaoglu] (https://github.com/Abazaoglu)
