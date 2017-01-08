@@ -17,6 +17,7 @@ Tools : Java Script(Cytoscape),Html<br>
 - [x] Use cross-reference(InterPro) in the command line thats JavaScript(document library) 
 - [x] Visualize cross-reference(InterPro) or GO terms as a node with source and target edges
 - [x] Linked the all nodes with attribute that have own databases
+- [x] Used cytoscape.js library with bipartite 
 - [x] Report the all associate nodes between PIds of organisms 
 
 
