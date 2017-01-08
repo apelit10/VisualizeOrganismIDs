@@ -12,7 +12,6 @@ Database : Uniprot<br>
 Tools : Java Script(Cytoscape),Html<br>
 
 ##STEPS
-- [x] Connect to uniprot.
 - [x] Get uniprot Entry ids of proteins which are given with cross-reference(InterPro) from two different organisms
 - [x] Use cross-reference(InterPro) in the command line thats JavaScript(document library) 
 - [x] Visualize cross-reference(InterPro) or GO terms as a node with source and target edges
@@ -25,5 +24,5 @@ Tools : Java Script(Cytoscape),Html<br>
 
   * [Yavuz Selim Abazaoglu] (https://github.com/Abazaoglu)
   * [Ahmet Pelit] (https://github.com/apelit10)
-  * [Gulizar Vural] (https://github.com/nahidErgun)
+  * [Gulizar Vural] (https://tr.linkedin.com/in/gulizar-vural-7bb809aa)
 
